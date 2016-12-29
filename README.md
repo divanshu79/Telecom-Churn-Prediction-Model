@@ -1,6 +1,6 @@
 # Telecom-Churn-Prediction-Model
 
-##Background
+###Background
 The goal of this project was to identify which customers would unsubscribe (churn) from a regional cell phone company. The telecom industry has been an area with a large amount of analytic research dedicated to customer retention, due to the large amounts of data generated and the saturation of the marketplace. Customer retention is five to six times cheaper than attracting new customers, and a one percent increase in retention can raise share prices by five percent.
 
 Our data was sourced from a regional cell phone company located in the Southeastern United States, and contains customer information from 1996 through 1999.  The overall churn rate for the customer base was 37%. Certain demographics had notably higher or lower churn rates. For instance, customers far from the southeastern region churned at very high rates (70% +).
