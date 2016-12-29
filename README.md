@@ -11,9 +11,7 @@ Through visualizations, a few trends were identified in the data:
       -  Customers are from all fifty states, however when looking at the count of customers by region, the company is almost exclusively          regional, as most customers are located in the southeastern portion of the country. 
       -  Churn rates are much higher in regions that are outside southeastern market
       -  Customers who purchased their phones/service plans at mall kiosks or over the internet are mostl likely to churn
-      -  Customers who have medium-to-low rate plan are most likely to churn
-
-rates of over 50%
+      -  Customers who have medium-to-low rate plan are most likely to churn 
 
 ### Predictive Model Building
 Several different data mining algorithms were applied to find which model would yield the greatest prediction accuracy.  Algorithms used include decision trees, random forest, support vector machine, adaboost, and neural network. The best model for predicting churn was a random forest, which takes the concept of a decision tree and improves upon it by creating dozens (or hundreds) of possible decision trees, then aggregating them to find the best fit. This model yielded 83% accuracy.
